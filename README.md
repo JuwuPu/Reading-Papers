@@ -7,8 +7,8 @@ Papers will be chosen by my learning plan or referenced from the Youtuber's chan
 Keep on learning and reflect on myself!
 
 
-
-- Do ImageNet Classifiers Generalize to ImageNet? 
+## Reading list
+- 2022-03-28 Do ImageNet Classifiers Generalize to ImageNet? 
 
 
 
