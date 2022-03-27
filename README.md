@@ -20,7 +20,7 @@ Keep on learning and reflect on myself!
 # Paper Notes Framework
 > __Title__
 >- __Summary__
-  -- 写完笔记之后最后填，概述文章的内容，以后查阅笔记的时候先看这一段。注：写文章summary切记需要通过自己的思考，用自己的语言描述。忌讳直接Ctrl + c原文。
+  - 写完笔记之后最后填，概述文章的内容，以后查阅笔记的时候先看这一段。注：写文章summary切记需要通过自己的思考，用自己的语言描述。忌讳直接Ctrl + c原文。
 >- __Research Objective(s)__
   -- 作者的研究目标是什么？
 >- __Background / Problem Statement__
