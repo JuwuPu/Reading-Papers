@@ -34,4 +34,4 @@ Keep on learning and reflect on myself!
 >#### __Notes(optional)__ 
 >- 不在以上列表中，但需要特别记录的笔记。
 >#### __References(optional)__ 
->-列出相关性高的文献，以便之后可以继续track下去。
+>- 列出相关性高的文献，以便之后可以继续track下去。
