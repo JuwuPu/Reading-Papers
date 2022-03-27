@@ -8,7 +8,8 @@ Keep on learning and reflect on myself!
 
 
 ## Reading list
-- 2022-03-28 - Do ImageNet Classifiers Generalize to ImageNet? 
+- 2022-03-28 
+- - Do ImageNet Classifiers Generalize to ImageNet? 
 
 
 
