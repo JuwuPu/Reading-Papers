@@ -9,9 +9,9 @@ Keep on learning and reflect on myself!
 
 ### Reading list
 
-| Date | Paper | Count | Task |
-| :---: | :---- | :----: | :---:|
-| 2022-03-28 | Do ImageNet Classifiers Generalize to ImageNet? | 1 | [] |
+| Date | Paper | Count |
+| :---: | :----: | :----: |
+| 2022-03-28 | **Do ImageNet Classifiers Generalize to ImageNet?** | 1 |
 
 
 # Acknowledgment
